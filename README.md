@@ -16,8 +16,10 @@ The placement scenario in India has witnessed significant changes over the last 
 - Insight Generation and Interpretation: Identify patterns, trends, and anomalies in the data that provide insights into the placement scenario across different states.
 - Visualizations: Create informative visualization.
 - Presentation: Create a presentation summarizing the project findings for stakeholders, including educational institutions, policymakers, and industry representatives.
-- Dashboard Link : https://noidainstituteofengtech-my.sharepoint.com/:u:/g/personal/0221cseh078_niet_co_in/Ecv4WtBt8NtNprJlUoV9Wr8BIgCdMaFZQvAzYlC8twiF7A?e=qSU9Zq 
+- Dashboard Link : https://noidainstituteofengtech-my.sharepoint.com/:u:/g/personal/0221cseh078_niet_co_in/Ecv4WtBt8NtNprJlUoV9Wr8BIgCdMaFZQvAzYlC8twiF7A?e=qSU9Zq
   
+  ![Screenshot (41)](https://github.com/user-attachments/assets/02bf2c4f-825a-49f5-bbbb-1a3af8ecec17)
+
 ## Results
 The analysis revealed several key findings:
 
@@ -27,20 +29,28 @@ The analysis revealed several key findings:
 
   - Top-performing states: States like Tamil Nadu, Maharashtra, Uttar Pradesh, and Madhya Pradesh showed consistently higher placement rates, likely due to the presence of a large number of industrial hubs and higher education institutions with strong industry ties.
   - Underperforming states: States like Bihar, Jharkhand, and Himachal Pradesh demonstrated lower placement rates, often due to factors such as a lack of local industry presence, limited government funding, and fewer private institutional options.
+    
+![Screenshot (43)](https://github.com/user-attachments/assets/92e178e6-79bc-42bf-aa76-5b62009d53b3)
 
 **2. Trends Over Time:**
 
 - From 2013 to 2019, placement rates saw a steady improvement, driven by expanding industry ties, government initiatives like Skill India, and improved teaching quality in private institutions.
 
 - 2020-2021 showed a decline in placements due to the pandemic, but IT and Pharma sectors recovered more quickly compared to other sectors like management.
+  
+  ![Screenshot (44)](https://github.com/user-attachments/assets/11ba87ec-0d88-45a2-afb2-88328a123578)
+
 **3. Gender-Based Enrollment and Placement:**
 
   - Boys vs. Girls Enrollment: Male students outnumbered female students in Engineering and Management programs, but the gender gap was less pronounced in Pharmacy courses.
+    
+![Screenshot (42)](https://github.com/user-attachments/assets/8da05e88-9d3e-4dde-a35e-e32b4a47c67c)
 
 **4. Institution Type:**
 
   -  Government Institutions: Placement rates in government institutions were generally lower compared to private institutions, which could be attributed to a variety of factors including outdated curricula, lack of industry collaboration, and resource constraints.
   - Private Institutions: Private institutions generally had better placement outcomes, possibly due to their stronger connections with the industry, more modern curricula, and a focus on employability.
+    
 **5. Impact of Regional and Economic Factors:**
 
 
